@@ -17,7 +17,7 @@ It achieves **~99% accuracy** on the test set.
 1. Clone the repository:
    ```bash
    git clone https://github.com/pritom5928/mnist-cnn-project.git
-   cd mnist-cnn-project```
+   cd mnist-cnn-project
 
 ## 📊 Results
 - Training Accuracy: ~99%
