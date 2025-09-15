@@ -27,9 +27,11 @@ Example predictions on test digits:
 
 | Digit Image | Prediction |
 |-------------|------------|
-| ![](sample_predictions/3.png) | 3 |
-| ![](sample_predictions/7.png) | 7 |
-| ![](sample_predictions/9.png) | 9 |
+| ![](sample_predictions/0_true0_pred0.png) | 0 |
+| ![](sample_predictions/1_true4_pred4.png) | 4 |
+| ![](sample_predictions/2_true2_pred2.png) | 2 |
+| ![](sample_predictions/3_true1_pred2.png) | 2 |
+| ![](sample_predictions/4_true7_pred7.png) | 7 |
 
 
 ## 📚 Dataset
