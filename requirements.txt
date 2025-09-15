@@ -1,0 +1,5 @@
+## 🛠️ Requirements
+- Python 3.12.11
+- TensorFlow 2.19.0  
+- NumPy   2.0.2
+- Matplotlib  3.10.0
